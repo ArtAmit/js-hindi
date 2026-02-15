@@ -6,7 +6,7 @@ datatypes
 2.string ""
 3.boolean true or false
 4.null (stand alone value) (representation of empty value) (its type is object) 
-5.undefined  value is not defined (its type is object) 
+5.undefined  value is not defined (its type is undefined) 
 6.symbol (finding uniqueness in component in react)
 
 */
