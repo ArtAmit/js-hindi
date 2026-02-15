@@ -11,3 +11,20 @@ datatypes
 
 */
 console.log(typeof 123);
+// data categorization 
+//2 types
+/*
+1.primitive
+7 types: call by value(copy is given)
+string,number,boolean,null,undefined,symbol,bigint
+2.non primitive
+ reference type: call by reference(allocate the direct address)
+ array,object,function
+*/
+let myobj={
+    name:"Amit",
+    age:22
+}
+const myFunction= function(){
+    console.log("Hello World");
+}
