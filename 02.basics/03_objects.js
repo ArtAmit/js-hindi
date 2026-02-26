@@ -35,3 +35,15 @@ console.log(Object.keys(tinderuser));// its datatype is array
 console.log(Object.values(tinderuser));
 console.log(Object.entries(tinderuser));
 // check givent value is present using tinderuser.hasownproperty('')
+
+
+// destructuring
+const course={
+    coursename:"jsin hindi",
+    price:"999",
+    courseinstructor:"hitesh"
+}
+
+const {courseinstructor:instructor}=course // we can update the name courseinstructor by :instructor
+//console.log(courseinstructor);
+console.log(instructor);
