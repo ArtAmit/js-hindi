@@ -1,4 +1,4 @@
-//singleton  ye apne tarah ki eek hi object hai 
+//singleton  ye apne tarah ki eek hi object hai const tn=inderuser=new object()
 // when we declare thorugh literal then no singleton and if through literal then singleton
 // object literals
 //Object.create// construsctor ke through
